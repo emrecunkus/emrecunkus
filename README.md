@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @emrecunkus 
-- 👀 I’m interested in back end and web development...
-- 📫 How to reach me muhammedemre.cunkus@aspilsan.com ...
+### 👋 Hi there, I'm Muhammed Emre Cunkus!
 
-<!---
-emrecunkus/emrecunkus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate backend and web developer, focused primarily on **.NET Core** and **Laravel**. I enjoy designing clean, scalable, and maintainable applications using modern architectural patterns.
+
+---
+
+### 💻 Tech Stack & Interests
+
+- 🧩 **Backend Development**: .NET Core, Laravel, RESTful APIs
+- 🏗️ **Architectures**: N-Tier, MVC, Onion Architecture
+- 🛠️ **Technologies**: Entity Framework Core, MSSQL, MySQL, Redis, Docker
+- 📦 **Design Patterns**:
+  - Repository
+  - Observer
+  - Unit of Work
+  - Factory
+  - Singleton
+  - Strategy
+
+---
+
+### 📫 Get in Touch
+
+📧 Email: muhammedemre.cunkus@aspilsan.com  
+🔗 LinkedIn / GitHub: *(Add your links here)*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
