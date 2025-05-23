@@ -21,8 +21,7 @@ I'm a passionate backend and web developer, focused primarily on **.NET Core** a
 
 ### 📫 Get in Touch
 
-📧 Email: muhammedemre.cunkus@aspilsan.com  
-🔗 LinkedIn / GitHub: *(Add your links here)*
+📧 Email: muhammed8336gmail.com  
 
 ---
 
