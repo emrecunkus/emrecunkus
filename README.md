@@ -24,5 +24,6 @@ I'm a passionate backend and web developer, focused primarily on **.NET Core** a
 📧 Email: muhammed8336gmail.com  
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark)
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
