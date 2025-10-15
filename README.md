@@ -13,10 +13,10 @@ I enjoy designing **clean**, **scalable** and **maintainable** applications usin
 ---
 
 ## Core Expertise (Most Used & Loved)
-**C# / .NET Core**  
-**PHP / Laravel**  
-**RESTful APIs**  
-**Scalable Backend Architectures**
+- **C# / .NET Core**  
+- **PHP / Laravel**  
+- **RESTful APIs**  
+- **Scalable Backend Architectures**
 
 ---
 
