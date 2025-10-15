@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Muhammed Emre Cunkus!</h1>
+<h1 align="center"> Hi there, I'm Muhammed Emre ÇUNKUŞ!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -12,11 +12,11 @@ I enjoy designing **clean**, **scalable** and **maintainable** applications usin
 
 ---
 
-## 🔥 Core Expertise (Most Used & Loved)
-✅ **C# / .NET Core**  
-✅ **PHP / Laravel**  
-✅ **RESTful APIs**  
-✅ **Scalable Backend Architectures**
+## Core Expertise (Most Used & Loved)
+**C# / .NET Core**  
+**PHP / Laravel**  
+**RESTful APIs**  
+**Scalable Backend Architectures**
 
 ---
 
@@ -31,7 +31,6 @@ I enjoy designing **clean**, **scalable** and **maintainable** applications usin
 - Entity Framework Core | Eloquent ORM  
 - MSSQL | MySQL  
 - Redis | Docker  
-- Git | CI/CD (interested)
 
 ---
 
@@ -44,8 +43,6 @@ I enjoy designing **clean**, **scalable** and **maintainable** applications usin
 
 ## 📫 Get in Touch
 📧 Email: **muhammed8336@gmail.com**  
-💼 LinkedIn: *(eklensin mi?)*
-
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
