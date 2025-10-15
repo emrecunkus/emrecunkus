@@ -28,24 +28,21 @@ I love designing **clean**, **scalable** and **maintainable** applications using
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emrecunkus&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecunkus&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
 
 ## 👀 Visitors Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Profile%20Views&color=blue&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=emrecunkus&label=Profile%20Views&color=blue&style=flat" alt="visitor badge"/>
 </p>
 
 ---
 
 ## 📫 Get in Touch
 📧 Email: muhammed8336@gmail.com  
-💼 LinkedIn: *(eklemek istersen link ver)*  
-🌐 Portfolio / Blog: *(varsa ekleyebiliriz)*
-
 ---
 
 > _“Code is like humor. When you have to explain it, it's bad.”_ – Cory House
