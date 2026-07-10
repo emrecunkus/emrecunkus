@@ -41,8 +41,4 @@ I enjoy designing **clean**, **scalable** and **maintainable** applications usin
 
 ---
 
-## 📫 Get in Touch
-📧 Email: **muhammed8336@gmail.com**  
----
-
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
